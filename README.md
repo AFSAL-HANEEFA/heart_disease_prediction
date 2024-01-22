@@ -1,1 +1,5 @@
-# heart_disease_prediction
+Accurate diagnosis is essential for the treatment and prevention of heart disease because it is a leading cause of morbidity and mortality worldwide. Based on patient characteristics, machine learning has demonstrated potential in the prediction of cardiac disease. In this work, my goal was to create a prediction model utilising machine learning algorithms that could correctly predict whether individuals would have cardiac disease. I compiled a dataset of individuals with known cardiac disease status and its associated characteristics, such as clinical and demographic details. 
+
+
+
+I chose and trained several machine learning models after pre-processing the data, including KNeighborsClassifier, GaussianNB, Support Vector Machine, logistic regression, and Decision Tree Classifier. I used a variety of criteria, such as accuracy, precision, recall, and F1- score, to assess each model's performance. The results show that the Decision Tree Classifier model achieved the highest accuracy of 78%, outperforming the other models. The findings of this study have important implications for improving heart disease diagnosis and patient care.
